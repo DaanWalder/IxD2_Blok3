@@ -1,0 +1,43 @@
+﻿  ofApp.cpp
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\addons\ofxio\libs\ofxio\include\ofx\recursivedirectoryiteratorimpl.h(142): warning C4267: 'return': conversion from 'size_t' to 'Poco::UInt16', possible loss of data
+  c:\users\ya boy\desktop\openframeworks\addons\ofxio\libs\ofxio\include\ofx\recursivedirectoryiteratorimpl.h(141): note: while compiling class template member function 'Poco::UInt16 ofx::RecursiveDirectoryIteratorImpl<TTravStr>::depthFun(const ofx::RecursiveDirectoryIteratorImpl<TTravStr>::Stack &)'
+          with
+          [
+              TTravStr=ofx::ChildrenFirstTraverse
+          ]
+  c:\users\ya boy\desktop\openframeworks\addons\ofxio\libs\ofxio\include\ofx\recursivedirectoryiteratorimpl.h(153): note: see reference to function template instantiation 'Poco::UInt16 ofx::RecursiveDirectoryIteratorImpl<TTravStr>::depthFun(const ofx::RecursiveDirectoryIteratorImpl<TTravStr>::Stack &)' being compiled
+          with
+          [
+              TTravStr=ofx::ChildrenFirstTraverse
+          ]
+  c:\users\ya boy\desktop\openframeworks\addons\ofxio\libs\ofxio\include\ofx\recursivedirectoryiteratorimpl.h(152): note: while compiling class template member function 'ofx::RecursiveDirectoryIteratorImpl<TTravStr>::RecursiveDirectoryIteratorImpl(const std::string &,Poco::UInt16)'
+          with
+          [
+              TTravStr=ofx::ChildrenFirstTraverse
+          ]
+  c:\users\ya boy\desktop\openframeworks\addons\ofxio\libs\ofxio\include\ofx\recursivedirectoryiterator.h(306): note: see reference to function template instantiation 'ofx::RecursiveDirectoryIteratorImpl<TTravStr>::RecursiveDirectoryIteratorImpl(const std::string &,Poco::UInt16)' being compiled
+          with
+          [
+              TTravStr=ofx::ChildrenFirstTraverse
+          ]
+  c:\users\ya boy\desktop\openframeworks\addons\ofxio\libs\ofxio\include\ofx\recursivedirectoryiterator.h(306): note: see reference to class template instantiation 'ofx::RecursiveDirectoryIteratorImpl<TTravStr>' being compiled
+          with
+          [
+              TTravStr=ofx::ChildrenFirstTraverse
+          ]
+  c:\users\ya boy\desktop\openframeworks\addons\ofxio\libs\ofxio\include\ofx\recursivedirectoryiterator.h(306): note: while compiling class template member function 'ofx::RecursiveDirectoryIterator<ofx::ChildrenFirstTraverse>::RecursiveDirectoryIterator(const Poco::Path &,Poco::UInt16)'
+  c:\users\ya boy\desktop\openframeworks\addons\ofxio\libs\ofxio\include\ofx\recursivedirectoryiterator.h(400): note: see reference to class template instantiation 'ofx::RecursiveDirectoryIterator<ofx::ChildrenFirstTraverse>' being compiled
+  IxD_Blok3_Les3.vcxproj -> C:\Users\Ya Boy\Desktop\HKU\Jaar 2\IxD Blok 3\IxD_Blok3_Les3\bin\IxD_Blok3_Les3_debug.exe
+  
+  	                   2	C:\Users\Ya Boy\Desktop\Openframeworks\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 6402560	C:\Users\Ya Boy\Desktop\HKU\Jaar 2\IxD Blok 3\IxD_Blok3_Les3\bin\FreeImage.dll
+  
+  	                   1	C:\Users\Ya Boy\Desktop\Openframeworks\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1503232	C:\Users\Ya Boy\Desktop\HKU\Jaar 2\IxD Blok 3\IxD_Blok3_Les3\bin\fmodex64.dll
+  	  *EXTRA File 		 1552384	C:\Users\Ya Boy\Desktop\HKU\Jaar 2\IxD Blok 3\IxD_Blok3_Les3\bin\fmodexL64.dll
