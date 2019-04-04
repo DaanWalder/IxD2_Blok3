@@ -1,0 +1,15 @@
+﻿  ofApp.cpp
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ya boy\desktop\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  IxD_Blok3_Les4.vcxproj -> C:\Users\Ya Boy\Desktop\HKU\Jaar 2\IxD Blok 3\Github\IxD_Blok3_Les4\bin\IxD_Blok3_Les4_debug.exe
+  
+  	                   2	C:\Users\Ya Boy\Desktop\Openframeworks\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 6402560	C:\Users\Ya Boy\Desktop\HKU\Jaar 2\IxD Blok 3\Github\IxD_Blok3_Les4\bin\FreeImage.dll
+  
+  	                   1	C:\Users\Ya Boy\Desktop\Openframeworks\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1503232	C:\Users\Ya Boy\Desktop\HKU\Jaar 2\IxD Blok 3\Github\IxD_Blok3_Les4\bin\fmodex64.dll
+  	  *EXTRA File 		 1552384	C:\Users\Ya Boy\Desktop\HKU\Jaar 2\IxD Blok 3\Github\IxD_Blok3_Les4\bin\fmodexL64.dll
